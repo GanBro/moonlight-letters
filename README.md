@@ -1,5 +1,7 @@
 # 月光来信
 
-双人相册，发布文件由制作页在本地生成。每次更新只需替换仓库根目录的 `index.html`。
+两个人的加密空间，包含回忆时间线、照片墙、心愿清单、来信、纪念日历和相伴天数。
 
-[打开相册](https://ganbro.github.io/moonlight-letters/)
+[打开月光来信](https://ganbro.github.io/moonlight-letters/)
+
+发布文件由制作页在本地生成。更新时，核对下载的加密文件，再替换仓库根目录的 `index.html`。
